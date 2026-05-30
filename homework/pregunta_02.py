@@ -13,7 +13,6 @@ def pregunta_02():
     Hello cruel world!
 
     """
-
     return "Hello cruel world!"
 
 
